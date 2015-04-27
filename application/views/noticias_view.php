@@ -8,20 +8,20 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(<?=base_url()?>img/noticias/convoca.png)">
+                <div class="item active" style="background-image: url(<?=base_url()?>img/noticias/maqueta.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Fondo Nacional al Emprendedor 2015</h1>
-                                    <h2 class="animation animated-item-2">Convocatoria 2015 de apoyo a los emprendedores, micro, pequeñas y medianas empresas.</h2>
-                                    <a class="btn-slide animation animated-item-3" target="_blank" href="http://tutoriales.inadem.gob.mx/">Leer Más</a>
+                                    <h1 class="animation animated-item-1">Concluye el  diseño y construcción de la célula de trabajo para la clasificación de residuos sólidos urbanos en su versión 2.0</h1>
+                                    
+                                    <a class="btn-slide animation animated-item-3" target="_blank" href="<?php echo site_url('creintech/principal_notice') ?>">Leer Más</a>
                                 </div>
                             </div>
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/MoybOvNkuA4" frameborder="0" allowfullscreen></iframe>
+                                    <img src="<?php echo base_url(); ?>img/noticias/maqueta2.jpg" class="img-responsive">
                                 </div>
                             </div>
 
